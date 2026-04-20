@@ -1,0 +1,1 @@
+A simple static website that uses the Ada CS code editor to display a certain program text. Hosted on Firebase. If needed to be used in the future, add extensions to URL for each different program.
